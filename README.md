@@ -23,6 +23,11 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 ## Dashboard Images 
 
   ![Your Image Description](dash1.png)
+   ![Your Image Description](dash2.png)
+    ![Your Image Description](dash3.png)
+     ![Your Image Description](dash5.png)
+      ![Your Image Description](dash6.png)
+       ![Your Image Description](dash7.png)
 
 
 ##  Dashboard Analysis & Insights
