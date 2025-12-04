@@ -96,8 +96,8 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 
 ###  Data Modeling ( ERD Diagram )
 
-(<img width="601" height="487" alt="DATA model powerbi" src="https://github.com/user-attachments/assets/b5d82492-9e15-4a8d-a485-9d2638d4e171" />
-)
+<img width="601" height="487" alt="DATA model powerbi" src="https://github.com/user-attachments/assets/b5d82492-9e15-4a8d-a485-9d2638d4e171" />
+
 
 
 ##  Outcome
