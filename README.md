@@ -35,7 +35,7 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 
 ##  Dashboard Analysis & Insights
 
-### 1 Sales Overview
+### 1. Sales Overview
 - **Sales Volume by Plant** – Compare total output from each production location  
 - **Sales Volume by Product** – Identify top-selling and low-performing products  
 - **Cumulative Sales** – Track progressive growth of sales volume over time  
@@ -43,7 +43,7 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 
 ---
 
-### 2 Inventory & Plant Insights
+### 2. Inventory & Plant Insights
 - **On-shelf Inventory vs. In-transit Inventory by Plant** – Monitor availability and shipments  
 - **Total Inventory by Month** – Understand inventory buildup and consumption patterns  
 - **Total Inventory & Total Sales Orders by Plant** – Evaluate plant efficiency and sales alignment  
@@ -51,7 +51,7 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 
 ---
 
-### 3 Vendor Performance
+### 3. Vendor Performance
 - **Vendor Performance Table** – Detailed view of on-time rates, delays, and order volumes  
 - **Vendor Volume by Plant and Vendor** – Understand contribution and dependency  
 - **Average Delivery Delay by Month** – Spot trends and performance gaps  
@@ -62,22 +62,22 @@ SunCharge specializes in manufacturing eco-friendly car batteries for electric v
 
 ##  Project Workflow
 
-### 1 Data Collection
+### 1. Data Collection
 - Gathered all datasets from Excel files  
 - Connected them to Power BI using Power Query  
 
- ### 2 Data Cleaning & Transformation
+ ### 2. Data Cleaning & Transformation
 - Removed duplicates, standardized date & product formats  
 - Merged datasets into a star schema model  
 
- ### 3 Data Modeling
+ ### 3. Data Modeling
 - Built relationships among fact (Sales, Purchases, Forecast) and dimension tables  
 - Added calculated columns for delivery delay and forecast variance  
 
- ### 4 DAX Measures
+ ### 4. DAX Measures
 - Created DAX measures for major KPIs
 
- ### 5 Dashboard Design
+ ### 5. Dashboard Design
 - Page navigation and slicers for year/month filters  
 - Dedicated pages for:
   - **Sales Overview**  
